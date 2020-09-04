@@ -20,7 +20,7 @@ html{
 .header::before{
     content: '';
     width: 100%;
-    min-height: 100vh;
+    min-height: 398vh;
     position: absolute;
     top: 0;
     left: 0;
